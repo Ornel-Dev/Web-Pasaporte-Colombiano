@@ -7,10 +7,42 @@
       "permanent": false
     },
     {
-      "source": "/termales_el_rancho",
-      "destination": "https://wa.me/p/7044394652325311/230430078939284",
+      "source": "/Murillo_Termales_del_Otoño",
+      "destination": "https://wa.me/p/27334541839467669/573022806848",
+      "permanent": false
+    },
+    {
+      "source": "/Ukumary_Consota",
+      "destination": "https://wa.me/p/26122201770809725/573022806848",
+      "permanent": false
+    },{
+      "source": "/Termales_SantaRosa_Filandia",
+      "destination": "https://wa.me/p/25908833252132387/573022806848",
+      "permanent": false
+    },{
+      "source": "/Tres_Destinos",
+      "destination": "https://wa.me/p/25359500193725620/573022806848",
+      "permanent": false
+    },{
+      "source": "/Hacienda_Napoles_y_Santorini",
+      "destination": "https://wa.me/p/34615904731357383/573022806848",
+      "permanent": false
+    },{
+      "source": "/Termales_el_Rancho",
+      "destination": "https://wa.me/p/27369877552598943/573022806848",
+      "permanent": false
+    },{
+      "source": "/Parque_del_Cafe",
+      "destination": "https://wa.me/p/35207607352188531/573022806848",
+      "permanent": false
+    },{
+      "source": "/Cascadas_Urracas",
+      "destination": "https://wa.me/p/26499960713004043/573022806848",
+      "permanent": false
+    },{
+      "source": "/Villa_de_Leyva",
+      "destination": "https://wa.me/p/26560361506913923/573022806848",
       "permanent": false
     }
-
   ]
 }
