@@ -43,6 +43,18 @@
       "source": "/Villa_de_Leyva",
       "destination": "https://wa.me/p/26560361506913923/573022806848",
       "permanent": false
+    },{
+      "source": "/Buga_Lago_Calima",
+      "destination": "https://wa.me/p/26490485083901386/573022806848",
+      "permanent": false
+    },{
+      "source": "/Manizales_Termales_Otono",
+      "destination": "https://wa.me/p/26874310345486260/573022806848",
+      "permanent": false
+    },{
+      "source": "/Norcasia_Rio_la_Miel",
+      "destination": "https://wa.me/p/26288046150875757/573022806848",
+      "permanent": false
     }
   ]
 }
